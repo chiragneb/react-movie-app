@@ -4,9 +4,10 @@ body {
 }
 
 .row>* {
-  width: 20%;
+  width: 30%;
 }
 
+.mr
 .movie-app>.row {
   overflow-x: auto;
   flex-wrap: nowrap;
